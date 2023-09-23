@@ -1,5 +1,6 @@
 # Number Guessing Game 
-Task-1: Number Guessing Game
+## _Task-1: Number Guessing Game_
+---
 <br/>
 Language: Core Java
 <br/>
